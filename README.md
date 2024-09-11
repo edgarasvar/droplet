@@ -1,3 +1,3 @@
 # droplet
 This is my first repository.
-I am looking forward to learning more.
+I am very much looking forward to learning more.
